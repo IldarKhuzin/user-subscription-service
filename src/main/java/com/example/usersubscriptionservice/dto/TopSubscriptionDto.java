@@ -9,6 +9,7 @@ public class TopSubscriptionDto {
         this.serviceName = serviceName;
         this.count = count;
     }
+    
 
     public String getServiceName() {
         return serviceName;
