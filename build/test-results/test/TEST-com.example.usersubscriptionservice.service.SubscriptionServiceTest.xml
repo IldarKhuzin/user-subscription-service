@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.usersubscriptionservice.service.SubscriptionServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-22T09:13:07.196Z" hostname="server.ili.ru" time="0.008">
+  <properties/>
+  <testcase name="addSubscription()" classname="com.example.usersubscriptionservice.service.SubscriptionServiceTest" time="0.005"/>
+  <testcase name="deleteSubscription()" classname="com.example.usersubscriptionservice.service.SubscriptionServiceTest" time="0.001"/>
+  <testcase name="getUserSubscriptions()" classname="com.example.usersubscriptionservice.service.SubscriptionServiceTest" time="0.0"/>
+  <testcase name="getTopSubscriptions()" classname="com.example.usersubscriptionservice.service.SubscriptionServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
